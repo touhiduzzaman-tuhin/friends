@@ -1,0 +1,13 @@
+.homepage{
+    display: flex;
+}
+
+.friendDescription{
+    width: 80%;
+    border-right: 1px solid gray;
+
+}
+
+.friendList{
+    margin-left: 20px;
+}

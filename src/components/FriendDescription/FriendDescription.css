@@ -1,0 +1,28 @@
+.friendStyle{
+    border-bottom: 1px solid gray;
+    margin-left: 200px;
+    display: flex;
+}
+
+.friendStyle img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+.addButton{
+    width: 200px;
+    background-color: goldenrod;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 500px;
+    margin-bottom: 10px;
+    height: 30px;
+}
+
+
+.addButton:hover{
+    background-color:gray;
+}

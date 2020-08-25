@@ -1,0 +1,15 @@
+.side-image{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.friends{
+    display: flex;
+    border: 1px solid gray;
+    background-color: salmon;
+    box-shadow: 5px 5px 10px gray;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
